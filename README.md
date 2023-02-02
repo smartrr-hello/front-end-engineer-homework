@@ -1,3 +1,5 @@
+Directions
+---
 
 1. fork this repository
 2. make a branch named "1-bootstrap"

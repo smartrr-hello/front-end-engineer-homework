@@ -5,7 +5,7 @@
 
 Your task is to fork this repository and implement several features using Bootstrap, pagination, and CRUD operations. The directions for each stage of the project are outlined below. Each stage should be implemented on a new branch as specified.
 
-Please make sure you follow best practices for front-end development throughout this exercise, including clear and concise code, efficient solutions, and comprehensive testing where necessary.
+Please make sure you follow best practices for front-end development throughout this exercise, including clear and concise code, efficient solutions, and comprehensive testing.
 
 ## Directions
 

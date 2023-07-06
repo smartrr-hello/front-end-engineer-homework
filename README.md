@@ -16,7 +16,6 @@ Make sure you apply appropriate Bootstrap classes to the existing elements to im
 Ensure the application remains responsive and user-friendly across different screen sizes.
 
 2. Implementing Pagination (Branch: "2-pagination")
-3. 
 Create a new branch named `2-pagination`. On this branch, your task is to implement pagination on the list page.
 
 Use your preferred paginator to limit the display to only 5 rows at a time. The paginator should allow users to navigate between pages of content with ease. Ensure the functionality works as expected, providing a smooth user experience.

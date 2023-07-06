@@ -10,17 +10,20 @@ Please make sure you follow best practices for front-end development throughout 
 ## Directions
 
 1. Styling with Bootstrap (Branch: "1-bootstrap")
+
 Fork the provided repository and create a new branch named `1-bootstrap`. On this branch, your goal is to style the list and search pages using Bootstrap.
 
 Make sure you apply appropriate Bootstrap classes to the existing elements to improve their visual appeal and usability.
 Ensure the application remains responsive and user-friendly across different screen sizes.
 
 2. Implementing Pagination (Branch: "2-pagination")
+
 Create a new branch named `2-pagination`. On this branch, your task is to implement pagination on the list page.
 
 Use your preferred paginator to limit the display to only 5 rows at a time. The paginator should allow users to navigate between pages of content with ease. Ensure the functionality works as expected, providing a smooth user experience.
 
 3. CRUD Operations (Branch: "3-crud")
+   
 Create a new branch named `3-crud`. On this branch, you will develop a form to add a new emoji and enable editing of existing emojis.
 
 * Create a form using the data description provided to add new emojis.

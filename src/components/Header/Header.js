@@ -8,16 +8,12 @@ const Header = () => {
       <img
         className="mx-3"
         src="//cdn.jsdelivr.net/emojione/assets/png/1f638.png"
-        width="32"
-        height="32"
         alt=""
       />
       <h1>Emoji Search</h1>
       <img
         className="mx-3"
         src="//cdn.jsdelivr.net/emojione/assets/png/1f63a.png"
-        width="32"
-        height="32"
         alt=""
       />
     </header>

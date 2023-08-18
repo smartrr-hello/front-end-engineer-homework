@@ -3,3 +3,8 @@
   font-size: 32px;
   color: #333;
 }
+
+.component-header img {
+  height: 32px;
+  width: 32px;
+}
